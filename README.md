@@ -1,2 +1,2 @@
-# community
-The Community repository is the place to go for Community discussions, governance examples and support for Accept MIDAS.
+# Accept community
+Welcome to the Accept community. This repository hosts organisation-wide discussions for Accept MIDAS and related projects.
